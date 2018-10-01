@@ -1,0 +1,17 @@
+p{
+	text-transform: uppercase;
+	font-family: 'Shrikhand', cursive;
+	font-size: 23px;
+	margin: 1.6%;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #CFD8DC;
+	width: 30%;
+
+}
+
+
+img{
+	float: left;
+	width: 30%;
+	margin : 1.6%;
+}
